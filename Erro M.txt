@@ -1,0 +1,41 @@
+$ git push
+Uploading LFS objects: 100% (310/310), 329 MB | 0 B/s, done.
+Enumerating objects: 12622, done.
+Counting objects: 100% (12622/12622), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5939/5939), done.
+Writing objects: 100% (12621/12621), 484.60 MiB | 582.00 KiB/s, done.
+Total 12621 (delta 6668), reused 12609 (delta 6664), pack-reused 0
+remote: Resolving deltas: 100% (6668/6668), done.
+remote: warning: File Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.0/data~/payload.tar.7z is 80.54 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: dc7742fb15b48c0d5e067e3a2df770044c6acafe4b41ac3aab8032d441548e40
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.0/data~/payload.tar.7z is 297.60 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/Abrahaofe/Happy-Souls.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Abrahaofe/Happy-Souls.git
+
+
+
+
+//************************************************************************************************************************************************//
+
+
+$ git push
+Uploading LFS objects: 100% (310/310), 329 MB | 0 B/s, done.
+Enumerating objects: 12631, done.
+Counting objects: 100% (12631/12631), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5948/5948), done.
+Writing objects: 100% (12630/12630), 484.68 MiB | 700.00 KiB/s, done.
+Total 12630 (delta 6673), reused 12609 (delta 6664), pack-reused 0
+remote: Resolving deltas: 100% (6673/6673), done.
+remote: warning: File Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.0/data~/payload.tar.7z is 80.54 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: 71520a4abe416d86c24aa4b58e902c0ae8112f238303dcf17b19def5f4f36b40
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.0/data~/payload.tar.7z is 297.60 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/Abrahaofe/Happy-Souls.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Abrahaofe/Happy-Souls.git'
